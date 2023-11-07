@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "1079096692413",
+    "firebase_url": "https://towing-service-e6448.firebaseio.com",
+    "project_id": "towing-service-e6448",
+    "storage_bucket": "towing-service-e6448.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079096692413:android:3c63591a9136c23c2671d4",
+        "android_client_info": {
+          "package_name": "codes.tuton.police.towinghelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079096692413-jeaqtq3dnqnbsq5v6qmn7ogiii0o0p6u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codes.tuton.police.towinghelper",
+            "certificate_hash": "0c7572624c71ff83c7ff98d84b6f57471cbadad7"
+          }
+        },
+        {
+          "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtHo95DeMmvzjlOmNWZ5A837gtIv8n8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079096692413:android:224434b9365a13e32671d4",
+        "android_client_info": {
+          "package_name": "codes.tuton.urvesh.towinghelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079096692413-g40hrtod977b1gp34p66brrhqj6h2k66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codes.tuton.urvesh.towinghelper",
+            "certificate_hash": "0c7572624c71ff83c7ff98d84b6f57471cbadad7"
+          }
+        },
+        {
+          "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtHo95DeMmvzjlOmNWZ5A837gtIv8n8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079096692413:android:f15d41696624164f2671d4",
+        "android_client_info": {
+          "package_name": "codes.tuton.user.towinghelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079096692413-ob8v2umv8jvtccqnbg03ppvfavijsn7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "codes.tuton.user.towinghelper",
+            "certificate_hash": "0c7572624c71ff83c7ff98d84b6f57471cbadad7"
+          }
+        },
+        {
+          "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtHo95DeMmvzjlOmNWZ5A837gtIv8n8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079096692413:android:5539da34de10aab32671d4",
+        "android_client_info": {
+          "package_name": "com.example.towingservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079096692413-4kfal38m9df22iej6810vqqepatiup02.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.towingservice",
+            "certificate_hash": "0c7572624c71ff83c7ff98d84b6f57471cbadad7"
+          }
+        },
+        {
+          "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUtHo95DeMmvzjlOmNWZ5A837gtIv8n8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079096692413-pll8pj5jbfp9tape5vq8tmbh9i92r58l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

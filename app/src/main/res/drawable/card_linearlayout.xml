@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetBottom="@dimen/_10sdp">
+
+    <shape>
+        <corners
+            android:radius="@dimen/_8sdp"/>
+
+        <stroke
+            android:width="@dimen/_1sdp"
+            android:color="#707070"/>
+
+        <solid
+            android:color="@color/white"/>
+    </shape>
+</inset>
